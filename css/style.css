@@ -387,7 +387,7 @@ blockquote:before {
     .card__picture--1 {
       background-image: linear-gradient(to right bottom, #000, #000), url(../img/girl-camera-min.jpg); }
     .card__picture--2 {
-      background-image: linear-gradient(to right bottom, #000, #000), url(../img/view-capture.jpg); }
+      background-image: linear-gradient(to right bottom, #000, #000), url(../img/view-capture-min.jpg); }
     .card__picture--3 {
       background-image: linear-gradient(to right bottom, #000, #000), url(../img/picography-man-camera-photographer-lens-1-min.jpg); }
   .card__heading {
